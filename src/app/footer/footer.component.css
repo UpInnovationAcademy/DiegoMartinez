@@ -1,0 +1,19 @@
+
+  .footer {
+    position: relative;
+    bottom: 0;
+    width: 100%;
+  
+    background-color: #eeeeee;
+  }
+  
+  
+  .footer-copyright{
+    background-color: #dddddd;
+}
+
+  
+  .footer > .container {
+    padding-right: 15px;
+    padding-left: 15px;
+  }
